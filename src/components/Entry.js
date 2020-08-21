@@ -17,7 +17,7 @@ const Entry = () => {
 
   const fetchRandomQuote = async () => {
     setLoading(true);
-    const response = await fetch("http://programming-quotes-api.herokuapp.com/quotes/random");
+    const response = await fetch("https://programming-quotes-api.herokuapp.com/quotes/random");
     const { author, en } = await response.json();
     setAuthor(author);
     setQuote(en);

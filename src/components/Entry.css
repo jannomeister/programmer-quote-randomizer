@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: linear-gradient(#FC5185, #3FC1C9);;
+}
+
+.ant-card-body {
+  display: grid;
+  place-items: center;
+  height: 82%;
+  overflow: scroll;
+}
+
+.title {
+  text-align: center;
+}

@@ -28,6 +28,10 @@ const Entry = () => {
     window.open("https://github.com");
   };
 
+  const viewAuthor = () => {
+    window.open(`https://en.wikipedia.org/wiki/${author}`);
+  }
+
   const onRefresh = async () => {
     await fetchRandomQuote();
   };
@@ -44,7 +48,7 @@ const Entry = () => {
       >
         <Skeleton loading={loading} active>
           <Title level={2} className="title">
-            <em>"{quote}"</em> - <Text>{author}</Text>
+            <em>"{quote}"</em> - <Text onClick={viewAuthor}>{author}</Text>
           </Title>
         </Skeleton>
       </Card>

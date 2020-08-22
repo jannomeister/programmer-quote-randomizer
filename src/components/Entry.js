@@ -48,7 +48,7 @@ const Entry = () => {
       >
         <Skeleton loading={loading} active>
           <Title level={2} className="title">
-            <em>"{quote}"</em> - <Text onClick={viewAuthor}>{author}</Text>
+            <em>"{quote}"</em> - <Text className="author" onClick={viewAuthor}>{author}</Text>
           </Title>
         </Skeleton>
       </Card>

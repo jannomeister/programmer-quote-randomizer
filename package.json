@@ -1,6 +1,6 @@
 {
   "name": "programmer-quote-randomizer",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A simple website to show a random programmer's quote 😁",
   "engines": {
     "node": ">=10.18",

@@ -3,7 +3,7 @@
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-image: linear-gradient(#FC5185, #3FC1C9);;
+  background-image: linear-gradient(#fc5185, #3fc1c9);
 }
 
 .ant-card-body {
@@ -19,4 +19,8 @@
 
 .author {
   text-decoration: underline;
+}
+
+.author:hover {
+  cursor: pointer;
 }

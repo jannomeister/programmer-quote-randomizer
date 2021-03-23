@@ -6,6 +6,15 @@
   "commit": false,
   "contributors": [
     {
+      "login": "jannomeister",
+      "name": "Janno De Jesus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46916819?v=4",
+      "profile": "http://resume.jannomeister.com",
+      "contributions": [
+        "maintenance"
+      ]
+    },
+    {
       "login": "itsdell",
       "name": "itsdell",
       "avatar_url": "https://avatars.githubusercontent.com/u/44337645?v=4",

@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "itsdell",
+      "name": "itsdell",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44337645?v=4",
+      "profile": "https://github.com/itsdell",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "programmer-quote-randomizer",
+  "projectOwner": "jannomeister",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

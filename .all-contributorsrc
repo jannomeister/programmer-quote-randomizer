@@ -13,6 +13,15 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "itsdell",
+      "name": "itsdell",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44337645?v=4",
+      "profile": "https://github.com/itsdell",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,

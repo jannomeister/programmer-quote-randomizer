@@ -37,6 +37,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://resume.jannomeister.com"><img src="https://avatars.githubusercontent.com/u/46916819?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Janno De Jesus</b></sub></a><br /><a href="#maintenance-jannomeister" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/itsdell"><img src="https://avatars.githubusercontent.com/u/44337645?v=4?s=100" width="100px;" alt=""/><br /><sub><b>itsdell</b></sub></a><br /><a href="https://github.com/jannomeister/programmer-quote-randomizer/commits?author=itsdell" title="Code">💻</a></td>
   </tr>
 </table>
 

@@ -1,9 +1,10 @@
 ## Programmer Quote Randomizer
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/feee2d49-38a7-40da-80f1-6b14d8abc85c/deploy-status)](https://app.netlify.com/sites/jannomeister-quote-randomizer/deploys)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 A simple website to show a random programmer's quote. I can't create this website without the help of this [open-source project](https://github.com/skolakoda/programming-quotes-api)
 
